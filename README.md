@@ -6,3 +6,6 @@ The final report for week 1 can be found on:
 
 The link to the notebook:
 https://github.com/WiljoM/Coursera_Capstone/blob/master/Battle%20of%20the%20Amsterdam%20Neigborhoods.ipynb
+
+--> In some cases a Folium map is not rendered well on Github. Please use the nbviewer from Jupyter to be sure you're able to see the rendered maps: 
+https://nbviewer.jupyter.org/github/WiljoM/Coursera_Capstone/blob/master/Battle%20of%20the%20Amsterdam%20Neigborhoods.ipynb
